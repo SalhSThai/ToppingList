@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.scrollHide::-webkit-scrollbar{
+  display: none;
+  
+}
+.block-60v{
+  overflow: scroll;
+  height:60vh;
+  width:30vw;
+}
